@@ -1,0 +1,10 @@
+{
+    "name": "TEST3",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "TEST3.xml",
+    "author": "JJN6D",
+    "minimum_firmware_version": 42
+}
